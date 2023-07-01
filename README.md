@@ -11,13 +11,12 @@ Este es un proyecto es para practicar el conocimineto en Java POO y MVC.
 
 ## Capturas de pantalla
 
-![Captura de pantalla 1](/screenshots/1.png)
-![Captura de pantalla 2](/screenshots/2.png)
-![Captura de pantalla 2](/screenshots/2.png)
-![Captura de pantalla 2](/screenshots/2.png)
-![Captura de pantalla 2](/screenshots/2.png)
-![Captura de pantalla 2](/screenshots/2.png)
-![Captura de pantalla 2](/screenshots/2.png)
+![Captura de pantalla 1](/screenshots/1.PNG)
+![Captura de pantalla 2](/screenshots/2.PNG)
+![Captura de pantalla 3](/screenshots/3.PNG)
+![Captura de pantalla 4](/screenshots/4.PNG)
+![Captura de pantalla 5](/screenshots/5.PNG)
+![Captura de pantalla 6](/screenshots/6.PNG)
 
 ## Instalación
 
